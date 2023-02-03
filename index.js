@@ -1,1 +1,1 @@
-console.log("samar");
+console.log("samar"); // man github dan ozgartirdim 
